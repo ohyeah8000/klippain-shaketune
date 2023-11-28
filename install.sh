@@ -1,6 +1,6 @@
 #!/bin/bash
 
-USER_CONFIG_PATH="${HOME}/printer_data/config"
+USER_CONFIG_PATH="${HOME}/klipper_config"
 KLIPPER_PATH="${HOME}/klipper"
 K_SHAKETUNE_PATH="${HOME}/klippain_shaketune"
 
